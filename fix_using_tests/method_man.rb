@@ -11,3 +11,6 @@ def play_game(player2)
 end
 
 start_game("Ferry", "Dingus")
+
+play_game("Dingus")
+
