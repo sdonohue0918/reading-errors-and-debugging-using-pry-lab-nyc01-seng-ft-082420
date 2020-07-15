@@ -13,4 +13,3 @@ end
 start_game("Ferry", "Dingus")
 
 play_game("Dingus")
-
