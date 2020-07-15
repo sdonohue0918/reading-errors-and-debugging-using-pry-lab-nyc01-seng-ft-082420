@@ -5,11 +5,11 @@ def start_game(player1, player2)
 
 end
 
-def play_game(player2)
-  "#{player2} is the winner"
+def play_game(player1, player2)
+  "#{player1} is better than #{player2}""
 
 end
 
 start_game("Ferry", "Dingus")
 
-play_game("Dingus")
+play_game("Dingus", "Ferry")
