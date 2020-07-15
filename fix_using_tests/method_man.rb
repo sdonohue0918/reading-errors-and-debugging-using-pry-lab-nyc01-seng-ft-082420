@@ -12,4 +12,4 @@ end
 
 start_game("Ferry", "Dingus")
 
-play_game("Dingus", start_game("Ferry", "Dingus"))
+play_game("Dingus")
